@@ -6,6 +6,6 @@ Eventually, this utility will make it's way to PyPI.  Now, however, you'll need 
 
     easy_install lxml
 
-Next, run the script like so
+Next, run the script from the top level of this repository like so:
 
     python ccdsum/sum.py 'data'  '/ClinicalDocument/recordTarget/patientRole/patient/administrativeGenderCode'
